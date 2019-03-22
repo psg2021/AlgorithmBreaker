@@ -122,8 +122,11 @@
     <ClCompile Include="baek_1110.cpp" />
     <ClCompile Include="baek_1152.cpp" />
     <ClCompile Include="baek_2448.cpp" />
+    <ClCompile Include="baek_2577.cpp" />
+    <ClCompile Include="baek_2920.cpp" />
     <ClCompile Include="baek_4344.cpp" />
     <ClCompile Include="baek_4673.cpp" />
+    <ClCompile Include="baek_8958.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
