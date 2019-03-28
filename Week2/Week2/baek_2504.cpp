@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-stack<int> s;
+//stack<int> s;
 
 /*
 int func2();
@@ -115,6 +115,7 @@ int main_2504() {
 }
 */
 
+/*
 int main_2504() {
 	string input;
 	cin >> input;
@@ -197,4 +198,7 @@ int main_2504() {
 	}
 	if (answer < 0 || s.size() != 0) cout << 0 << endl;
 	else cout << answer << endl;
+
+	return 0;
 }
+*/

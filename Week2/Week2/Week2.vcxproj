@@ -119,6 +119,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="baek_10828.cpp" />
+    <ClCompile Include="baek_10845.cpp" />
+    <ClCompile Include="baek_1260.cpp" />
     <ClCompile Include="baek_1874.cpp" />
     <ClCompile Include="baek_2504.cpp" />
     <ClCompile Include="baek_9012.cpp" />
